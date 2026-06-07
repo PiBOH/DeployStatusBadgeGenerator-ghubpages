@@ -1,0 +1,40 @@
+# Deploy Status Badge Generator
+
+> DeployStatusBadgeGenerator-githubpages
+
+![Vercel Badge](https://deploy-status-badge-generator.vercel.app//vercel/deploy-badge) [![GitHub License](https://img.shields.io/github/license/PiBOH/DeployBadgeGenerator-ghubpages?style=flat&cacheSeconds=100)](https://github.com/PiBOH/DeployBadgeGenerator-ghubpages/blob/main/LICENSE)
+
+Generate a deployment badge for your project's README.
+
+## Usage
+
+It's recommended to use the [badge generator](https://deploy-status-badge-generator.vercel.app/) to quickly generate a badge for your application. Here's how you can create a deployment badge for any URL.
+
+To generate a deployment badge for your application [https://www.nextjs.org](https://www.nextjs.org), simply pass this URL as a parameter to this application.
+
+### HTML
+
+```html
+<img src="https://deploy-badge.vercel.app/?url=http://www.nextjs.org/&name=website" alt="Website Deploy"></img>
+```
+
+### Markdown
+
+```md
+![Website Deploy](https://deploy-badge.vercel.app/?url=http://www.nextjs.org/&name=website)
+```
+
+### Other Parameters
+
+- **`?style=`** - The style of the badge. Available styles: **`flat`** (Default), **`flat-square`**, **`plastic`** & **`for-the-badge`**.
+- **`?logo=`** - Use this paramater if you'd like to change the vercel logo on the badge. To learn more visit [the Shields.io documentation](https://shields.io/docs/logos).
+- **`?name=`** - Use this parameter if you'd like to change the name of the badge.
+
+## Links (for *[therealsujitk](https://github.com/therealsujitk/)*)
+- This is an *[therealsujitk's](https://github.com/therealsujitk/deploy-badge)* fork
+- [Generate a Badge](https://deploy-badge.vercel.app)
+- [About Me](https://therealsuji.tk)
+- [Donate](https://therealsuji.tk/donate)
+
+### Thanks to
+[therealsujitk](https://github.com/therealsujitk/)
