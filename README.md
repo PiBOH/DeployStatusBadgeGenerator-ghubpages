@@ -2,7 +2,7 @@
 
 > DeployStatusBadgeGenerator-githubpages
 
-![Vercel Badge](https://deploy-status-badge-generator.vercel.app//vercel/deploy-badge) [![GitHub License](https://img.shields.io/github/license/PiBOH/DeployBadgeGenerator-ghubpages?style=flat&cacheSeconds=100)](https://github.com/PiBOH/DeployBadgeGenerator-ghubpages/blob/main/LICENSE)
+![Vercel Badge](https://deploy-status-badge-generator.vercel.app//vercel/deploy-badge) [![GitHub License](https://img.shields.io/github/license/PiBOH/DeployStatusBadgeGenerator-ghubpages?style=flat&cacheSeconds=100)](https://github.com/PiBOH/DeployBadgeGenerator-ghubpages/blob/main/LICENSE)
 
 Generate a deployment badge for your project's README.
 
